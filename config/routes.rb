@@ -34,7 +34,6 @@ Rails.application.routes.draw do
   #   resources :products do
   #     resources :comments, :sales
   #     resource :seller
-  #   endredirectredirect_to("https://www.tutorialspoint.com/ruby-on-rails/rails-examples.htm")_to("https://www.tutorialspoint.com/ruby-on-rails/rails-examples.htm")
 
   # Example resource route with more complex sub-resources:
   #   resources :products do
